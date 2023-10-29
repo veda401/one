@@ -28,7 +28,7 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://100.25.199.159:8081/veda</url>
+		    <url>http://100.25.199.159:8081/repository/veda/</url>
 		 </snapshotRepository>
 		
 		<repository>
